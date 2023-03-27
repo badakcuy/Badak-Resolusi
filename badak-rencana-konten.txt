@@ -3,7 +3,11 @@ RENCANA KONTEN BADAK
 - Javascript
   * ES6
   * Framework Javascript
-  - Struktur Data Dasar
+    ^ Vue
+    ^ React
+- Struktur Data Dasar
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
