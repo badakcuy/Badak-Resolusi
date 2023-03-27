@@ -1,0 +1,6 @@
+RENCANA KONTEN BADAK
+
+- Javascript
+- PHP Frameworks
+- Interview
+- Vlogs
